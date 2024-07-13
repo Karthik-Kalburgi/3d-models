@@ -1,0 +1,11 @@
+Model Information:
+* title:	Battlestar Galactica 1978 - Fury-class [FANON]
+* source:	https://sketchfab.com/3d-models/battlestar-galactica-1978-fury-class-fanon-e780a4b41d0248c29b81449eea60f193
+* author:	3D_Star Galactica (https://sketchfab.com/3D_Star_Galactica)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Battlestar Galactica 1978 - Fury-class [FANON]" (https://sketchfab.com/3d-models/battlestar-galactica-1978-fury-class-fanon-e780a4b41d0248c29b81449eea60f193) by 3D_Star Galactica (https://sketchfab.com/3D_Star_Galactica) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

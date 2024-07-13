@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dinobot Grimlock - Transformers Earth Wars
+* source:	https://sketchfab.com/3d-models/dinobot-grimlock-transformers-earth-wars-d3884aa4f10e4cdb8aefebe267ecf791
+* author:	Kairi DC2 (https://sketchfab.com/spritetrap)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dinobot Grimlock - Transformers Earth Wars" (https://sketchfab.com/3d-models/dinobot-grimlock-transformers-earth-wars-d3884aa4f10e4cdb8aefebe267ecf791) by Kairi DC2 (https://sketchfab.com/spritetrap) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

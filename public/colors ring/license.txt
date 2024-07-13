@@ -1,0 +1,11 @@
+Model Information:
+* title:	A soviet scales "Tumen". Советские весы "Тюмень"
+* source:	https://sketchfab.com/3d-models/a-soviet-scales-tumen-b7fb4c0941244722b911f62a537ec8f5
+* author:	Valger (https://sketchfab.com/Valger)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "A soviet scales "Tumen". Советские весы "Тюмень"" (https://sketchfab.com/3d-models/a-soviet-scales-tumen-b7fb4c0941244722b911f62a537ec8f5) by Valger (https://sketchfab.com/Valger) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
